@@ -37,7 +37,7 @@ This document describes the network architecture and configuration for a multi-s
 ### VLAN and Inter-VLAN Routing
 
 - **VLAN Configuration**: Multiple VLANs are configured to segregate network traffic and enhance security.
-  - Example VLANs: VLAN 10 (HR), VLAN 20 (Finance), VLAN 30 (IT)
+  - Example VLANs: VLAN 10 (HR), VLAN 20 (Finance), VLAN 30 (IT) or DEPARTMENT 1, DEPARTMENT 2, DEPARTMENT 3
 - **Inter-VLAN Routing**: Enabled via Layer 3 devices in Packet Tracer to facilitate communication between different VLANs.
 
 ### DHCP Snooping
