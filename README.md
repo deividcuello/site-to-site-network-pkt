@@ -18,7 +18,6 @@ This document provides a comprehensive overview of the network architecture for 
     - [NAT with Dual ISP](#nat-with-dual-isp)
 4. [Site Information](#site-information)
 5. [Device Access](#device-access)
-6. [Images](#images)
 
 ## Overview
 
